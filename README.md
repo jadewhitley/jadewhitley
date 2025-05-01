@@ -1,8 +1,8 @@
 ## hi, you've reached jade🧜‍♀️
 
-🐬 graduated from AC in mobile application design & development</br>
-🐠 currently teaching myself linux (RHEL server, Arch) and cloud (Azure)</br>
-🐋 dual citizen of the u.s. and canada, also learning french and italian</br>
+🐬 graduated from Algonquin College in mobile application design & development</br>
+🐠 currently teaching myself linux (RHEL server, Arch) and cloud (AWS)</br>
+🐋 dual citizen of the U.S. and Canada, also learning french and italian</br>
 
 ### 🏝️ reach me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jadewhitley) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hi@jadewhitley.com) 
